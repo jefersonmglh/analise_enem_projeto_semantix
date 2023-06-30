@@ -1,4 +1,4 @@
-# Desenvolvimento e aplicação de modelos de aprendizagem de máquina para estimar nível de influência das questões socioeconômicas no desempenho dos candidatos do ENEM 2021.
+# Desenvolvimento e aplicação de técnicas de inteligência artificial para estimar o nível de influência das questões socioeconômicas no desempenho dos candidatos do ENEM 2021
 
 ## RESUMO
 
